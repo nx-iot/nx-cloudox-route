@@ -1,0 +1,6 @@
+[submodule "lib/nx-cloudox-ble"]
+	path = lib/nx-cloudox-ble
+	url = https://github.com/nx-iot/nx-cloudox-ble.git
+[submodule "lib/nx-cloudox-xbee"]
+	path = lib/nx-cloudox-xbee
+	url = https://github.com/nx-iot/nx-cloudox-xbee.git
